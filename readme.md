@@ -123,6 +123,7 @@ npm start
 
 ![history](./project/assests/history.png)
 
+## Email Alert
 ![emailAlert](./project/assests/emailAlert.png)
 
 ## Key Takeaways
