@@ -112,4 +112,4 @@ npm start
 - Implemented alerts and automated scoring systems
 
 ## Screenshots
-[!Scanner Page] (Cyber-Risk-Assessment-and-Threat-Intelligence-Platform/project/assets/scanner.png)
+![Scanner Page](Cyber-Risk-Assessment-and-Threat-Intelligence-Platform/project/assets/scanner.png)
