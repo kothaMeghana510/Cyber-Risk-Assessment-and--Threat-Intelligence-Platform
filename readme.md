@@ -85,7 +85,7 @@ The system follows a modular architecture:
 ## 6. How to Run
 
 ### Backend
-
+``` bash
 cd project/backend/appBackend
 python -m venv venv
 # Linux/Mac
@@ -99,7 +99,7 @@ uvicorn backend-app:main --reload
 cd project/frontend/appFrontend
 npm install
 npm start
-
+```
 
 ## Target Sites Used
 - Only sample IP addresses were used for testing
