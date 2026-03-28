@@ -85,7 +85,7 @@ The system follows a modular architecture:
 ## 6. How to Run
 
 ### Backend
-```bash
+
 cd project/backend/appBackend
 python -m venv venv
 # Linux/Mac
@@ -100,12 +100,10 @@ cd project/frontend/appFrontend
 npm install
 npm start
 
+
 ## Target Sites Used
 - Only sample IP addresses were used for testing
 - No unauthorized scanning or illegal activity was performed
-
-## Screenshots
-[!Scanner Page] (./project/assets/scanner.png)
 
 
 ## Key Takeaways
@@ -113,3 +111,6 @@ npm start
 - Applied real-world risk assessment concepts
 - Learned data visualization, KPIs, and dashboard design
 - Implemented alerts and automated scoring systems
+
+## Screenshots
+[!Scanner Page] (./project/assets/scanner.png)
