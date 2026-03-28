@@ -104,6 +104,26 @@ npm start
 - Only sample IP addresses were used for testing
 - No unauthorized scanning or illegal activity was performed
 
+## Screenshots
+
+### Scan Target Page
+![Scanner Page](./project/assets/scanner.png)
+
+### Dashboard 
+![kpicards](./project/assests/kpicards.png)
+
+![analysis](./project/assests/graphs.png)
+
+![openPorts](./project/assests/openPorts.png)
+
+### History Page
+![historyKpi](./project/assests/historyKpi.png)
+
+![historyBarGraph](./project/assests/historyBarGraph.png)
+
+![history](./project/assests/history.png)
+
+![emailAlert](./project/assests/emailAlert.png)
 
 ## Key Takeaways
 - Built a modular full-stack project combining backend frontend, and external APIs
@@ -111,5 +131,6 @@ npm start
 - Learned data visualization, KPIs, and dashboard design
 - Implemented alerts and automated scoring systems
 
-## Screenshots
-![Scanner Page](project/assets/scanner.png)
+## Security Disclaimer
+This project is strictly intended for learning and security testing in authorized environments only. Scanning websites without permission may violate laws and ethical guidelines. Always ensure you have proper authorization before performing any security scans.
+
