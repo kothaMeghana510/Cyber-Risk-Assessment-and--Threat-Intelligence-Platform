@@ -1,4 +1,3 @@
-# Network Risk Analysis Dashboard
 # CYBER RISK ASSESSMENT AND THREAT INTELLIGENCE PLATFORM 
 
 **Author:** Meghana Kotha  
@@ -8,7 +7,7 @@
 
 ## 1. Project Overview
 
-The Network Risk Analysis Dashboard is a full-stack application that allows security teams to identify vulnerabilities, analyze potential threats, and assess risk levels of network systems. The project integrates real-time port scanning, threat intelligence data, and automated risk scoring, displaying results in an interactive and user-friendly dashboard.
+The CYBER RISK ASSESSMENT AND THREAT INTELLIGENCE PLATFORM  is a full-stack application that allows security teams to identify vulnerabilities, analyze potential threats, and assess risk levels of network systems. The project integrates real-time port scanning, threat intelligence data, and automated risk scoring, displaying results in an interactive and user-friendly dashboard.
 
 **Why this project?**  
 Organizations need to quickly understand weaknesses in their systems and respond to threats before they cause damage. This project simplifies risk analysis by automating data collection, scoring, and visualization.
@@ -113,4 +112,4 @@ npm start
 - Implemented alerts and automated scoring systems
 
 ## Screenshots
-[!Scanner Page] (./project/assets/scanner.png)
+[!Scanner Page] (Cyber-Risk-Assessment-and-Threat-Intelligence-Platform/project/assets/scanner.png)
