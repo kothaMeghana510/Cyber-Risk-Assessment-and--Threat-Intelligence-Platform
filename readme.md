@@ -107,7 +107,7 @@ npm start
 ## Screenshots
 
 ### Scan Target Page
-![Scanner Page](./project/assets/scanner.png)
+![Scanner Page](./project/assests/scanner.png)
 
 ### Dashboard 
 ![kpicards](./project/assests/kpicards.png)
